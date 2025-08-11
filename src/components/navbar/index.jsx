@@ -54,7 +54,7 @@ export default function Navbar() {
             to={"/krishna"}
             className="text-black hover:text-gray-700 duration-300"
           >
-            sindhu
+            gayatri
           </NavLink>
         </li>
       </ul>
