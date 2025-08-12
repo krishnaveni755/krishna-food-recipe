@@ -57,6 +57,15 @@ export default function Navbar() {
             rushika
           </NavLink>
         </li>
+
+        <li>
+          <NavLink
+            to={"/krishna"}
+            className="text-black hover:text-gray-700 duration-300"
+          >
+            sindhu
+          </NavLink>
+        </li>
         
         
       </ul>
