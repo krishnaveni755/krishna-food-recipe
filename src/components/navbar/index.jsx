@@ -48,6 +48,15 @@ export default function Navbar() {
             krishna
           </NavLink>
         </li>
+
+        <li>
+          <NavLink
+            to={"/krishna"}
+            className="text-black hover:text-gray-700 duration-300"
+          >
+            rushika
+          </NavLink>
+        </li>
         
         
       </ul>
