@@ -49,14 +49,7 @@ export default function Navbar() {
           </NavLink>
         </li>
         
-        <li>
-          <NavLink
-            to={"/krishna"}
-            className="text-black hover:text-gray-700 duration-300"
-          >
-            gayatri
-          </NavLink>
-        </li>
+        
       </ul>
     </nav>
   );
